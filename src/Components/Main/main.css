@@ -1,0 +1,17 @@
+.main-container {
+    background-color: #e24d5c;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+  .name {
+    font-size: 80pt;
+    align-self: center;
+  }
+  
+  .certification {
+    font-size: 40pt;
+    align-self: center;
+  }
